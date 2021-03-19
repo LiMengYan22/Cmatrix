@@ -11,19 +11,3 @@ $ cmatrix
 <hr>
 Editor: [editor on GitHub](https://github.com/yanlimeng/Cmatrix/edit/gh-pages/index.md) 
 
-
-Check: [Repo!!](https://yanlimeng.github.io/TERMUX) 
-
-
-<script language="JavaScript" type="text/javascript">
-//<![CDATA[
-var txt=" ------------> XieXie!! __________ 闫丽梦 ........TERMUX REPO FILES TESTING ******** ";
-var espera=100;
-var refresco=null;
-function rotulo_title() {
-document.title=txt;
-txt=txt.substring(1,txt.length)+txt.charAt(0);
-refresco=setTimeout("rotulo_title()",espera);}
-rotulo_title();
-//]]>
-</script>
